@@ -9,13 +9,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
-
-### Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leliatraverso&layout=compact&theme=vision-optimized-dark&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leliatraverso&show_icons=true&theme=vision-optimized-dark&hide_border=false&count_private=true" alt="GitHub Stats" />
-</p>
