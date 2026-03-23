@@ -1,4 +1,14 @@
-## Hi there 👋
+
+
+# Hi there 👋 I'm Lelia!
+
+### 💫 About Me:
+- 🎓 **Software Development student at IU International** 
+- 🧠 **Passionate about AI, Machine Learning, and Cloud Computing.**
+- 💻 **Current Focus:** Masterging Java and Python for data-driven projects 🙌🏼
+
+
+---
 
 ### Languages and Tools:
 <p align="left">
