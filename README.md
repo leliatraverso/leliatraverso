@@ -10,3 +10,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
+### Stats:
+![Lelia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leliatraverso&layout=compact&theme=vision-optimized-dark)
