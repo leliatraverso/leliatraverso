@@ -11,4 +11,11 @@
 </p>
 
 ### Stats:
-![Lelia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leliatraverso&layout=compact&theme=vision-optimized-dark&hide_border=true&langs_count=6)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leliatraverso&layout=compact&theme=vision-optimized-dark&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leliatraverso&show_icons=true&theme=vision-optimized-dark&hide_border=false&count_private=true" alt="GitHub Stats" />
+</p>
